@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">👨‍💻 About me</h2>
+<h2 align="left">👨‍💻 Sobre</h2>
 
 ###
 
@@ -47,7 +47,7 @@
   <a href="rogertecdev@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://www.instagram.com/kawaqzy?igsh=M2V6MWNlcnNid2tl&utm_source=qr" target="_blank">
+  <a href="https://www.instagram.com/rogerdevs/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="55" height="40" alt="instagram logo"  />
   </a>
 </div>
