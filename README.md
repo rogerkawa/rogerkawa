@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">RogerDev | WorldSkills 2026</h2>
+<h2 data-importer="text" align="left">RogerDev | WorldSkills 2026 💻</h2>
 
 ###
 
@@ -47,7 +47,7 @@
 
 ###
 
-<p data-importer="text" align="left">Sou estudante de Técnico em Desenvolvimento de Sistemas, apaixonado por tecnologia e desenvolvimento web.<br>Atualmente estudo e desenvolvo projetos utilizando:<br>- HTML<br>- CSS<br>- JavaScript<br>- Node<br>- Bootstrap<br>- React<br>- Python<br>- mySQL<br><br>Tenho foco em criar interfaces modernas, interativas e funcionais. <br>Estou em busca da minha primeira oportunidade na área de desenvolvimento para crescer profissionalmente e contribuir com projetos reais.</p>
+<p data-importer="text" align="left">Sou estudante de Técnico em Desenvolvimento de Sistemas, apaixonado por tecnologia e desenvolvimento web.<br>Atualmente estudo e desenvolvo projetos utilizando:<br>- HTML<br>- CSS<br>- JavaScript<br>- Node<br>- Bootstrap<br>- React<br>- Python<br>- mySQL<br><br>🏆Competidor WorldSkills 2026<br>🏅Campeão da Etapa Local - SENAI<br><br>🏆Competidor GrandPix<br><br>Acredito que programação vai muito além de escrever código: é sobre resolver problemas, criar experiências e transformar ideias em realidade.</p>
 
 ###
 
