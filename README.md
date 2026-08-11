@@ -15,10 +15,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
@@ -47,7 +43,7 @@
 
 ###
 
-<p data-importer="text" align="left">Sou estudante de Técnico em Desenvolvimento de Sistemas, apaixonado por tecnologia e desenvolvimento web.<br>Atualmente estudo e desenvolvo projetos utilizando:<br>- HTML<br>- CSS<br>- JavaScript<br>- Node<br>- Bootstrap<br>- React<br>- Python<br>- mySQL<br><br>🏆Competidor WorldSkills 2026<br>🏅Campeão da Etapa Local - SENAI<br><br>Acredito que programação vai muito além de escrever código: é sobre resolver problemas, criar experiências e transformar ideias em realidade.</p>
+<p data-importer="text" align="left">Sou estudante de Técnico em Desenvolvimento de Sistemas, apaixonado por tecnologia e desenvolvimento web.<br>Atualmente estudo e desenvolvo projetos utilizando:<br>- HTML<br>- CSS<br>- JavaScript<br>- Node<br>- Bootstrap<br>- mySQL<br><br>🏆Competidor WorldSkills 2026<br>🏅Campeão da Etapa Local - SENAI<br><br>Acredito que programação vai muito além de escrever código: é sobre resolver problemas, criar experiências e transformar ideias em realidade.</p>
 
 ###
 
