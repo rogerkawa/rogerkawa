@@ -45,7 +45,7 @@
 
 ###
 
-<p data-importer="text" align="left">Sou estudante de Técnico em Desenvolvimento de Sistemas, apaixonado por tecnologia e desenvolvimento web.<br>Atualmente estudo e desenvolvo projetos utilizando:<br>- HTML<br>- CSS<br>- JavaScript<br>- Node<br>- Bootstrap<br>- mySQL<br><br>🏆Competidor WorldSkills 2026<br>🏅Campeão da Etapa Local - SENAI<br><br>Acredito que programação vai muito além de escrever código: é sobre resolver problemas, criar experiências e transformar ideias em realidade.</p>
+<p data-importer="text" align="left">Sou estudante de Técnico em Desenvolvimento de Sistemas, apaixonado por tecnologia e desenvolvimento web.<br>Atualmente estudo e desenvolvo projetos utilizando:<br>- HTML<br>- CSS<br>- JavaScript<br>- Node<br>- React <br>- Bootstrap<br>- mySQL<br><br>🏆Competidor WorldSkills 2026<br>🏅Campeão da Etapa Local - SENAI<br><br>Acredito que programação vai muito além de escrever código: é sobre resolver problemas, criar experiências e transformar ideias em realidade.</p>
 
 ###
 
