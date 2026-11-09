@@ -57,6 +57,6 @@ Representando minha instituição e buscando evoluir cada vez mais na área de t
 
 *Building ideas into reality.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=100&section=footer" width="100%" />
 
 </div>
