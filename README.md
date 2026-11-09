@@ -22,7 +22,7 @@ Construindo soluções, explorando tecnologias e transformando ideias em código
 
 ### TECH STACK
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,bootstrap,mysql,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,bootstrap,mysql,git,github,vscode&theme=dark" />
 
 </div>
 
@@ -45,6 +45,7 @@ Atualmente, foco meus estudos no desenvolvimento Full Stack, explorando tecnolog
 
 **WORLDSKILLS 2026**
 
+🧑‍💻 Competidor Regional - MA
 🏆 Campeão da Etapa Local — SENAI
 
 Representando minha instituição e buscando evoluir cada vez mais na área de tecnologia.
