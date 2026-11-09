@@ -14,7 +14,7 @@ Construindo soluções, explorando tecnologias e transformando ideias em código
 ---
 
 <div align="center">
-  <img src="./assets/rogerdev-animation.gif" width="100%" alt="RogerDev Animation">
+  <img src="./assets/rogerdev-animation.gif" width="100%" alt="RogerDev Animation" width="100px">
 </div>
 
 
