@@ -1,56 +1,70 @@
-<h2 data-importer="text" align="left">RogerDev | WorldSkills 2026 💻</h2>
+ <div align="center">
 
-###
+# ROGERDEV
 
-<img data-importer="image" align="right" height="150" src="https://i.pinimg.com/736x/8d/fc/38/8dfc380f323ba0ab4e8c2022a9df831e.jpg"  />
+**Desenvolvedor em formação · WorldSkills 2026**
 
-###
+Construindo soluções, explorando tecnologias e transformando ideias em código.
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="30" alt="react logo" />          
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-111111?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/rogerdevs/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-111111?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rogercostadevs)
+
 </div>
 
-###
+---
 
-<div data-importer="socials" align="left">
-  <a href="https://www.instagram.com/rogerdevs/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/rogercostadevs" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+<!--
+ÁREA RESERVADA PARA O VÍDEO ANIMADO
+
+Quando a animação estiver pronta, coloque o arquivo em:
+assets/rogerdev-animation.gif
+
+Depois, descomente a linha abaixo:
+
+<div align="center">
+  <img src="./assets/rogerdev-animation.gif" width="100%" alt="RogerDev Animation">
+</div>
+-->
+
+<div align="center">
+
+### TECH STACK
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,bootstrap,mysql,git,github,vscode&theme=dark" />
+
 </div>
 
-###
+---
 
-<p data-importer="text" align="left">👨‍💻 Sobre mim</p>
+### ABOUT ME
 
-###
+Sou estudante de **Técnico em Desenvolvimento de Sistemas**, apaixonado por tecnologia, desenvolvimento web e criação de soluções digitais.
 
-<p data-importer="text" align="left">Sou estudante de Técnico em Desenvolvimento de Sistemas, apaixonado por tecnologia e desenvolvimento web.<br>Atualmente estudo e desenvolvo projetos utilizando:<br>- HTML<br>- CSS<br>- JavaScript<br>- Node<br>- React <br>- Bootstrap<br>- mySQL<br><br>🏆Competidor WorldSkills 2026<br>🏅Campeão da Etapa Local - SENAI<br><br>Acredito que programação vai muito além de escrever código: é sobre resolver problemas, criar experiências e transformar ideias em realidade.</p>
+Atualmente, foco meus estudos no desenvolvimento Full Stack, explorando tecnologias modernas e construindo projetos próprios.
 
-###
+- 💻 Desenvolvimento Web
+- ⚙️ JavaScript, React e Node.js
+- 🚀 Construção de aplicações e sistemas
+- 📚 Aprendizado contínuo e resolução de problemas
 
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=9b111e"  />
+### ACHIEVEMENTS
+
+<div align="center">
+
+**WORLDSKILLS 2026**
+
+🏆 Campeão da Etapa Local — SENAI
+
+Representando minha instituição e buscando evoluir cada vez mais na área de tecnologia.
+
 </div>
 
-###
+---
+
+<div align="center">
+
+*Building ideas into reality.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" width="100%" />
+
+</div>
