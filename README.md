@@ -13,18 +13,10 @@ Construindo soluções, explorando tecnologias e transformando ideias em código
 
 ---
 
-<!--
-ÁREA RESERVADA PARA O VÍDEO ANIMADO
-
-Quando a animação estiver pronta, coloque o arquivo em:
-assets/rogerdev-animation.gif
-
-Depois, descomente a linha abaixo:
-
 <div align="center">
   <img src="./assets/rogerdev-animation.gif" width="100%" alt="RogerDev Animation">
 </div>
--->
+
 
 <div align="center">
 
